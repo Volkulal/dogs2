@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+td {
+    width: 100px;
+    height: 150px;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.background {
+    background-image: url(img/lyalyalya.png);
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px;
+    background-position: 0 0;
+    margin:  0 auto;
+    width: 1500px;
+}
+
+body {
+    margin: 0;
+}
+
+.dog {
+    background-image: url(img/zemlya.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 150px;
+}
